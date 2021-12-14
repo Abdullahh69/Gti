@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="282" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="282" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="APPIUM()[pri:0, instance:qaclickacademy.AppiumTest@1550481]" name="APPIUM" duration-ms="0" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APPIUM -->
+        <test-method status="PASS" signature="APPIUM2()[pri:0, instance:qaclickacademy.AppiumTest@1550481]" name="APPIUM2" duration-ms="0" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APPIUM2 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="api()[pri:0, instance:qaclickacademy.APITest@3e6358]" name="api" duration-ms="25" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api -->
+        <test-method status="PASS" signature="api2()[pri:0, instance:qaclickacademy.APITest@3e6358]" name="api2" duration-ms="0" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api2 -->
+      </class> <!-- qaclickacademy.APITest -->
+      <class name="qaclickacademy.SeleinumTest">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:qaclickacademy.SeleinumTest@15f7ae5]" name="Browser" duration-ms="0" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="Browser2()[pri:0, instance:qaclickacademy.SeleinumTest@15f7ae5]" name="Browser2" duration-ms="1" started-at="2021-12-12T07:22:35Z" finished-at="2021-12-12T07:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser2 -->
+      </class> <!-- qaclickacademy.SeleinumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
